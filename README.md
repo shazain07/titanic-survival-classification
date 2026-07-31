@@ -31,6 +31,7 @@ The objective is to binary-classify passengers as either **Survived (1)** or **D
 
 ### Confusion Matrix Breakdown
 [[98 12]
+
 [23 46]]
 
 - **True Negatives (98):** Passengers who did not survive, correctly predicted as non-survivors.
